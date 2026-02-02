@@ -132,6 +132,6 @@ export const DEFAULT_EXERCISES: Exercise[] = [
   { id: "39", name: "Face pull", muscleGroup: "Espalda" },
   { id: "41", name: "Estiramiento cervical y dorsal", muscleGroup: "Estiramiento" },
   { id: "42", name: "Movilidad torácica + estiramientos", muscleGroup: "Estiramiento" },
-  { id: "43", name: "Flexiones de brazoz", muscleGroup: "Bíceps" },
+  { id: "43", name: "Flexiones de brazos", muscleGroup: "Bíceps" },
 
 ]
