@@ -88,6 +88,7 @@ export const MUSCLE_GROUPS = [
   "Glúteos",
   "Cardio",
   "Estiramiento",
+  "Correr",
 ] as const
 
 export const DEFAULT_EXERCISES: Exercise[] = [
@@ -133,5 +134,5 @@ export const DEFAULT_EXERCISES: Exercise[] = [
   { id: "41", name: "Estiramiento cervical y dorsal", muscleGroup: "Estiramiento" },
   { id: "42", name: "Movilidad torácica + estiramientos", muscleGroup: "Estiramiento" },
   { id: "43", name: "Flexiones de brazos", muscleGroup: "Bíceps" },
-
+  { id: "44", name: "Trotar", muscleGroup: "Correr" },
 ]
