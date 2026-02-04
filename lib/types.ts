@@ -135,5 +135,5 @@ export const DEFAULT_EXERCISES: Exercise[] = [
   { id: "42", name: "Movilidad torácica + estiramientos", muscleGroup: "Estiramiento" },
   { id: "43", name: "Flexiones de brazos", muscleGroup: "Bíceps" },
   { id: "44", name: "Trotar", muscleGroup: "Correr" },
-  { id: "44", name: "Intervalos", muscleGroup: "Correr" },
+  { id: "45", name: "Intervalos", muscleGroup: "Correr" },
 ]
